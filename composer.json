@@ -1,5 +1,5 @@
 {
-    "name": "hkp22/cache-laraview-fragments",
+    "name": "italianst4/cache-laraview-fragments",
     "description": "Caching Laravel view's fragments.",
     "license": "MIT",
     "keywords": ["laravel", "cache", "fragments cache", "view cache"],
@@ -7,6 +7,10 @@
         {
             "name": "Harish Kumar",
             "email": "harishpra22@gmail.com"
+        },
+         {
+            "name": "Anthony Montalbano",
+            "email": "italianst4@gmail.com"
         }
     ],
     "require": {
