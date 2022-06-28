@@ -3,6 +3,7 @@
     "description": "Caching Laravel view's fragments.",
     "license": "MIT",
     "keywords": ["laravel", "cache", "fragments cache", "view cache"],
+    "version": "1.1.0",
     "authors": [
         {
             "name": "Harish Kumar",
